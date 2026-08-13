@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1000">
+    <title>ASCA Cooperative Addition Glyph</title>
+    <desc>Two congruent intersecting hollow circles forming a Vesica Piscis</desc>
+    
+    <!-- Left Circle -->
+    <circle cx="375" cy="500" r="250" fill="none" stroke="#1b365d" stroke-width="20"/>
+    
+    <!-- Right Circle -->
+    <circle cx="625" cy="500" r="250" fill="none" stroke="#1b365d" stroke-width="20"/>
+</svg>
